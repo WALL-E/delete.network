@@ -4,10 +4,10 @@
 
 ## 教程
 
-* [删除新浪微博账户](https://github.com/delete-project/delete.network/issues/1)
-* [删除抖音账户](https://github.com/delete-project/delete.network/issues/2)
-* [删除简书账户](https://github.com/delete-project/delete.network/issues/3)
-* [删除新浪微博账户](https://github.com/delete-project/delete.network/issues/4)
+* [注销新浪微博账户](https://github.com/delete-project/delete.network/issues/1)
+* [注销抖音账户](https://github.com/delete-project/delete.network/issues/2)
+* [注销简书账户](https://github.com/delete-project/delete.network/issues/3)
+* [注销新浪微博账户](https://github.com/delete-project/delete.network/issues/4)
 
 ## 法律
 
